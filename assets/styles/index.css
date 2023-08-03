@@ -1,0 +1,11 @@
+nav {
+  background: #00ff00;
+  border-radius: 10px;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+nav li {
+  list-style: none;
+}/*# sourceMappingURL=index.css.map */
