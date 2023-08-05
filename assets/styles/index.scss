@@ -5,7 +5,9 @@ nav {
     ul {
         display: flex;
         justify-content: space-around;
-    }
+        height: 40px;
+        align-items: center;
+    
     li {
         list-style: none;
     }
