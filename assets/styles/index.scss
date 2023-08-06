@@ -5,8 +5,20 @@ nav {
     ul {
         display: flex;
         justify-content: space-around;
-    }
+        height: 40px;
+        align-items: center;
+    
     li {
         list-style: none;
     }
+ }
 }
+
+header {
+    h1 {
+
+        font-size: 3rem;
+        text-align: center;
+    }
+}
+
